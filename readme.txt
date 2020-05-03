@@ -6,3 +6,4 @@ creating a new branch is quick.
 creating a dev branch is quick.
 re-merge and re-delete dev branch.
 manage branch 
+remote origin 
