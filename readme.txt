@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 git push origin master.
 creating a new branch is quick.
 creating a dev branch is quick.
+re-merge and re-delete dev branch.
